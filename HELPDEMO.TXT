@@ -1,0 +1,13 @@
+.TOPIC:
+CONTENTS
+Hello And Welcome to the Tails2012tim Os Help.exe File!
+This Basic-somewhat like windows 1.0 Os..
+Was Worked on very hard and with the only reasen that it worked is becouse of visual basic.
+i rilley liked doing this and enjoy it a lot.
+
+Click the mouse over one of the topics below for more information. or Press TAB to select a topic the press enter to jump to it.
+<Starting Applications>
+.TOPIC:
+Starting Applications
+To Open Applications Click the corrsponding application. See <Advanced Applacation tasks> For More Info.
+
